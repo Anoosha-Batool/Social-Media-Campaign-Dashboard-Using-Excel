@@ -18,7 +18,7 @@ from Kaggle to build an interactive Excel dashboard.
 - `Preprocessing code.ipynb` — Python Preprocessing Code
 - `Preprocessed data.csv` — Cleaned Dataset
 - `Social_Media_Campaign_Dashboard.xlsx` — Excel Dashboard
-- Original Dataset: https://www.kaggle.com/datasets/prasertk/social-media-advertising-dataset
-
+- Original Dataset: https://www.kaggle.com/datasets/jsonk11/social-media-advertising-dataset
+  
 ## Author
 Anoosha Batool — Business Analytics Student at IIUI
