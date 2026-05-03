@@ -21,4 +21,4 @@ from Kaggle to build an interactive Excel dashboard.
 - Original Dataset: https://www.kaggle.com/datasets/prasertk/social-media-advertising-dataset
 
 ## Author
-Anoosha Batool — Business Analytics Student at IIU
+Anoosha Batool — Business Analytics Student at IIUI
