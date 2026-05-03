@@ -1,7 +1,7 @@
 # Social Media Campaign Performance Dashboard
 
 ## Project Overview
-Analyzed a 300,000-row Social Media Advertising dataset 
+Analyzed a 300,000 row Social Media Advertising dataset 
 from Kaggle to build an interactive Excel dashboard.
 
 ## Tools Used
@@ -21,4 +21,4 @@ from Kaggle to build an interactive Excel dashboard.
 - Original Dataset: https://www.kaggle.com/datasets/jsonk11/social-media-advertising-dataset
   
 ## Author
-Anoosha Batool — Business Analytics Student at IIUI
+Anoosha Batool, Business Analytics Student at IIUI
