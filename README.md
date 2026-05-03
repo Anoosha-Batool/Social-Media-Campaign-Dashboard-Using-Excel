@@ -15,9 +15,9 @@ from Kaggle to build an interactive Excel dashboard.
 - Conditional Formatting & Variance Analysis
 
 ## Files
-- `Preprocessing code.ipynb` — Python Preprocessing Code
-- `Preprocessed data.csv` — Cleaned Dataset
-- `Social_Media_Campaign_Dashboard.xlsx` — Excel Dashboard
+- `Preprocessing code.ipynb`  Python Preprocessing Code
+- `Preprocessed data.csv`  Cleaned Dataset
+- `Social_Media_Campaign_Dashboard.xlsx` Excel Dashboard
 - Original Dataset: https://www.kaggle.com/datasets/jsonk11/social-media-advertising-dataset
   
 ## Author
