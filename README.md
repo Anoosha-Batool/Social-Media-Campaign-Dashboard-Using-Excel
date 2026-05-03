@@ -5,8 +5,8 @@ Analyzed a 300,000-row Social Media Advertising dataset
 from Kaggle to build an interactive Excel dashboard.
 
 ## Tools Used
-- Python (Pandas) — Data Preprocessing
-- Microsoft Excel — Dashboard & Visualization
+- Python (Pandas) FOR Data Preprocessing
+- Microsoft Excel For  Data Analysis & Visualization
 
 ## Key Features
 - KPI Metrics (Total Spend, Clicks, ROI, Best Platform)
